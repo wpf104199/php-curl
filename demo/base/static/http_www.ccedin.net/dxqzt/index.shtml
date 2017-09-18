@@ -1,0 +1,517 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<title>长春教育网</title>
+<base href="http://www.ccedin.net/uploadfiles/template/001/">
+<link rel="shortcut icon" href="/favicon.ico">
+<!---1---<link href="/facetype/manager/css/imgturns.css" type="text/css" rel="stylesheet" />
+		--><script type="text/javascript" src="../js/jquery.js"></script><script type="text/javascript" src="../js/ipcount.js"></script><script type="text/javascript">
+		ipRecord('');
+		</script><script type="text/javascript" src="../js/dscms_js.js"></script>
+</head>
+<body oncontextmenu="return true"> 
+	﻿<link rel="stylesheet" type="text/css" href="css/pages.css" media="all">
+<script type="text/javascript" src="Scripts/swfobject_modified.js"></script><!--header--><div class="header">
+<div class="header_in wrap">
+<div class="header_tips">
+<span><a><img src="images/tips_login.jpg">登录</a></span><span><a><img src="images/tips_register.jpg">注册</a></span>
+</div>
+<div class=" ul_tips">
+<a href="index.shtml">教育专题</a><em>|</em><a href="http://weibo.com/u/3920346791?pids=Pl_Core_OwnerFeed__5" target="_blank">教育微博</a>
+</div>
+<div class="loginbox">
+<div class="loginbox_bc">
+<input class="login_input" value="请输入用户名"><input class="login_input" value="请输入密码"><p><input class="login_submit" type="submit" value="登录"><span><a>忘记密码</a></span></p>
+</div>
+</div>
+</div>
+</div> <!--end header--><!--banner--><div class="sub_banner wrap">
+<object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1003" height="178">    <param name="movie" value="images/flash1.swf">
+<param name="quality" value="high">
+<param name="wmode" value="opaque">
+<param name="swfversion" value="15.0.0.0">
+<!-- �� param ��ǩ��ʾʹ�� Flash Player 6.0 r65 �͸�߰汾���û��������°汾�� Flash Player������������û���������ʾ���뽫��ɾ�� --><param name="expressinstall" value="../../../Scripts/expressInstall.swf">
+<!-- ��һ�������ǩ���ڷ� IE �����������ʹ�� IECC ����� IE ���ء� --><!--[if !IE]>--><object type="application/x-shockwave-flash" data="images/flash1.swf" width="1003" height="178">      <!--<![endif]-->      <param name="quality" value="high">
+<param name="wmode" value="opaque">
+<param name="swfversion" value="15.0.0.0">
+<param name="expressinstall" value="../../../Scripts/expressInstall.swf">
+<!-- ��������������������ʾ��ʹ�� Flash Player 6.0 �͸�Ͱ汾���û��� --><div>        <h4>��ҳ���ϵ�������Ҫ���°汾�� Adobe Flash Player��</h4>        <p><a href="http://www.adobe.com/go/getflashplayer"><img src="images/get_flash_player.gif" alt="��ȡ Adobe Flash Player" width="112" height="33"></a></p>      </div>      <!--[if !IE]>-->    </object>    <!--<![endif]-->  </object> </div>
+<!--end banner--><!--nav--><!--start--><div class="slideTxtBox_nav wrap mb7">
+<script type="text/javascript" src="js/time.js"></script><style type="text/css">
+#date,#time{color:#434343;font-size:12px;font-family:"Microsoft YaHei"}
+</style>
+<div class="hd">
+<ul>
+<a href="../index.shtml"> <li>首 页</li>
+</a><li><a href="../jyzx/index.shtml">教育资讯</a></li>
+<li><a href="../zwgk/index.shtml">政务公开</a></li>
+<li><a href="../xxgk/index.shtml">信息公开</a></li>
+<li><a href="../wsfw/index.shtml">网上服务</a></li>
+<li><a href="../hdjl/index.shtml">互动交流</a></li>
+<li><a href="../jyyy/index.shtml">教育应用</a></li>
+<li><a href="../xzlt/index.shtml">教育论坛</a></li>
+</ul>
+</div>
+<div class="bd pr">
+<div class="newdiv">
+<div class="addnew clearfix">
+<!--search--><div class="index_search">
+<table class="table_sea ke-zeroborder" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+<td class="fb wid120">站内搜索</td>
+<td>
+<div class="sea">
+<form id="searchform" class="searchinfo" method="post" name="searchform" action="/frontWeb.do?action=search">
+<input type="hidden" value="1" name="type"><input class="input_t" value="" name="keyword" me="keyword"><input class="input_b" type="submit" value=" ">
+</form>
+</div>
+</td>
+<td>
+<div class="clearfix notice">
+    <h2>重要新闻：</h2>
+    <dl class="notice_bd">
+<dd><a href="../zyxw/101963.shtml">教育部关于深化高校教师考核评价制度改革的指...</a></dd>
+<dd><a href="../zyxw/101962.shtml">教育部关于进一步推进高中阶段学校考试招生制...</a></dd>
+    
+    </dl>
+</div>
+
+</td>
+</tr></tbody></table>
+</div>
+<!--end search-->
+</div>
+</div>
+<div class="newdiv hide">
+<div class="addnew clearfix">
+<ul>
+<li><a href="../jyxw/index.shtml">本市新闻</a></li>
+<li><a href="../xqdt/index.shtml">县区动态</a></li>
+<li><a href="../xyxw/index.shtml">校园新闻</a></li>
+<li><a href="../zdxw/index.shtml">国内教育要闻</a></li>
+<li><a href="../xxzk/index.shtml">信息周刊</a></li>
+<li><a href="../tzgg/index.shtml">通知公告</a></li>
+ </ul>
+</div>
+</div>
+
+<div class="newdiv hide">
+
+<div class="addnew clearfix">
+
+<ul>
+<li><a href="../qzgk/index.shtml">权责公开</a></li>
+
+<li><a href="../frontWeb.do?action=infoDisDisplay">依申请公开</a></li>
+
+<li><a href="../jcgk/index.shtml">决策公开</a></li>
+
+<li><a href="../fwgk/index.shtml">服务公开</a></li>
+
+<li><a href="../ggfw/index.shtml">公共服务</a></li>
+
+<li><a href="../zxgk/index.shtml">执行公开</a></li>
+
+<li><a href="../jggk/index.shtml">结果公开</a></li>
+
+<li><a href="../newzcjd/index.shtml">政策解读</a></li>
+
+<li><a href="../zdbjgk/index.shtml">制度标准公开</a></li>
+
+<li><a href="../bzcsgk/index.shtml">保障措施公开</a></li>
+
+ <div style="font-size:0px;height:0px;clear:both;line-height:0;"></div>
+
+</ul>
+</div>
+
+</div>
+
+
+<div class="newdiv hide">
+<div class="addnew clearfix">
+<ul>
+<li><a href="../xxgktlyzd/index.shtml">信息公开条例与制度</a></li>
+<li><a href="../ldxx/index.shtml">领导信息</a></li>
+<li><a href="../jgzn/index.shtml">机构职能</a></li>
+<li><a href="../fzgh1/index.shtml">发展规划</a></li>
+<li><a href="../zgjh/index.shtml">工作计划</a></li>
+<li><a href="../gzzj1/index.shtml">工作总结</a></li>
+<li><a href="../gzdt/index.shtml">工作动态</a></li>
+<li><a href="../fgwj/index.shtml">法规文件</a></li>
+<li><a href="../bmjs/index.shtml">机关建设</a></li>
+<li><a href="../rrxx/index.shtml">人员信息</a></li>
+<li><a href="../tjsj/index.shtml">统计数据</a></li>
+<li><a href="../frontWeb.do?action=directorIndex">局长信箱</a></li>
+<li><a href="http://sdts.ccedin.net/newpage.aspx">监督投诉</a></li>
+<li><a href="../xzql/index.shtml">行政权力</a></li>
+<li><a href="../zdzwjshgl/index.shtml">重大政务及社会管理</a></li>
+<li><a href="../gklxdh/index.shtml">网上办事公开联系电话</a></li>
+<li><a href="../jyjgcjsxxgk/index.shtml">教育局工程建设信息公开</a></li>
+<li><a href="../zyxxzlbg/index.shtml">长春市中等职业学校质量年度报告</a></li>
+ <div style="font-size:0px;height:0px;clear:both;line-height:0;"></div>
+</ul>
+</div>
+</div>
+<div class="newdiv hide">
+<div class="addnew clearfix">
+<ul>
+<li><a href="../bgxz1/index.shtml">表格下载</a></li>
+<li><a href="../zxcx1/index.shtml">在线查询</a></li>
+<li><a href="http://app.jszg.edu.cn/portal/enroll/index">网上预审</a></li>
+ </ul>
+</div>
+</div>
+<div class="newdiv hide">
+<div class="addnew clearfix">
+<ul>
+<li><a href="../ddjd/index.shtml">督导监督</a></li>
+<li><a href="../jzxx/index.shtml">局长信箱</a></li>
+<li><a href="http://221.8.13.189/loginAction/page/login">局长接待日网上预约</a></li>
+<li><a href="http://weibo.com/u/3920346791">长春教育官方微博</a></li>
+<li><a href="../gkdh/index.shtml">长春市教育局办事公开联系电话</a></li>
+ </ul>
+</div>
+</div>
+<div class="newdiv hide">
+<div class="addnew clearfix">
+<ul>
+<li><a href="../yyzs/index.shtml">校校通</a></li>
+<li><a href="../bbtzs/index.shtml">班班通</a></li>
+<li><a href="../rrtzs/index.shtml">人人通</a></li>
+<li><a href="../yypt/index.shtml">应用平台</a></li>
+<li><a href="../yspzx/index.shtml">音视频中心</a></li>
+<li><a href="../jyzc/index.shtml">教育之窗</a></li>
+ </ul>
+</div>
+</div><div class="newdiv hide"><div class="addnew clearfix"><ul>
+<li><a href="../xzlt/index.shtml">校长论坛</a></li><li><a href="../lgblt/index.shtml">老干部论坛</a></li><li><a href="../hbgb/index.shtml">后备干部论坛</a></li><li><a href="../jgjyxt/index.shtml">机关教育学堂</a></li> </ul>
+</div></div>
+</div>
+ </div>
+<!--end --><!--end nav--><!--main--><div style="clear:both;" class="wrap clearfix">
+<!--start list--><div class="mb7">
+<!--left--><div class="sublistpage_l three fl">
+<div class="sub_navtop"></div>
+<div class="w_border pb10 min_hei726">
+<div class="subnavpage_title">
+<h1> 教育<span>专题</span>  </h1>
+<h2>Education Network menu</h2>
+</div>
+<ul id="menu">
+<li>
+<a href="index.shtml">“大学区”专题</a><ul>
+<li><a href="../xqhd/index.shtml">县区活动</a></li>
+<li><a href="../jyjl1/index.shtml">经验交流</a></li>
+</ul>
+</li>
+<li>
+<a href="../ssxwkzt/index.shtml">“时事新闻课”专题</a><ul>
+<li><a href="../xgwj1/index.shtml">相关文件</a></li>
+<li><a href="../cgzs/index.shtml">成果展示</a></li>
+</ul>
+</li>
+<li>
+<a href="../zllbblbk/index.shtml">治理乱办班乱补课</a><ul>
+<li><a href="../xgwj/index.shtml">相关文件</a></li>
+<li><a href="../xxfb/index.shtml">信息发布</a></li>
+</ul>
+</li>
+<li>
+<a href="../zszl/index.shtml">2017年中小学考试招生专栏</a><ul></ul>
+</li>
+<li>
+<a href="../jdz/index.shtml">征集“金点子”</a><ul></ul>
+</li>
+<li>
+<a href="../zyjyzt/index.shtml">“职业教育”专题</a><ul></ul>
+</li>
+<li>
+<a href="../tsxyzt/index.shtml">“特色校园”专题</a><ul></ul>
+</li>
+<li>
+<a href="../llxxjswm/index.shtml">理论学习和精神文明建设活动专题</a><ul></ul>
+</li>
+</ul>
+</div>
+</div> <!--end left--><!--center--><div class="sublistpage_c fl w_border">
+<h1 class="h1_title t_normal">   当前位置：首页 &gt;  <a href="../jyztlm/index.shtml">教育专题</a> &gt; <a href="index.shtml">“大学区”专题</a>    </h1>
+<ul class="ul_subpagelist">
+<li>
+<!--<em>信息索引号</em>--> <p>信息名称</p>
+<b>产生日期</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="西安：西安市大学区管理制改革的反思" href="../jyjl1/99769.shtml" target="_blank"> 西安：西安市大学区管理制改革的反思 </a></p>
+<b>2015-12-17</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="长春：“大学区”来了" href="../jyjl1/99767.shtml" target="_blank"> 长春：“大学区”来了 </a></p>
+<b>2015-12-17</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="深圳：今年试行大学区招生 按积分高低分学位同时试行义务教育阶段大学区积分入学" href="../jyjl1/99766.shtml" target="_blank">深圳：今年试行大学区招生 按积分高低分学位同时试行义务... </a></p>
+<b>2015-12-17</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="西安：深化大学区管理制度改革最高效共享优质资源" href="../jyjl1/99768.shtml" target="_blank"> 西安：深化大学区管理制度改革最高效共享优质资源 </a></p>
+<b>2015-12-16</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="朝阳区开展主题教研活动 促进大学区深度交流 " href="../xqhd/99722.shtml" target="_blank"> 朝阳区开展主题教研活动 促进大学区深度交流  </a></p>
+<b>2015-12-11</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="朝阳区大学区系列活动正在进行时" href="../jyjl1/99481.shtml" target="_blank"> 朝阳区大学区系列活动正在进行时 </a></p>
+<b>2015-11-11</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title=" 朝阳区：师徒同台演绎“大学区”校际融合精彩" href="../xqhd/99480.shtml" target="_blank">  朝阳区：师徒同台演绎“大学区”校际融合精彩 </a></p>
+<b>2015-11-11</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="长春职业院校教师在全国职校教学大赛上再创佳绩" href="../jyjl1/99478.shtml" target="_blank"> 长春职业院校教师在全国职校教学大赛上再创佳绩 </a></p>
+<b>2015-11-11</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="二道区集优化办学模式在省大学区现场会上进行展示" href="../xqhd/99454.shtml" target="_blank"> 二道区集优化办学模式在省大学区现场会上进行展示 </a></p>
+<b>2015-11-09</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="我市大学区达到86个  实现义务教育段中小学全覆盖" href="../jyjl1/99446.shtml" target="_blank"> 我市大学区达到86个  实现义务教育段中小学全覆盖 </a></p>
+<b>2015-11-09</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="南关区第二幼儿园开展教师进修学校（大学区）理论学会报告会" href="../xqhd/99135.shtml" target="_blank">南关区第二幼儿园开展教师进修学校（大学区）理论学会报告... </a></p>
+<b>2015-09-24</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="二道区义务教育均衡发展工程有序实施之东盛大学区" href="../xqhd/99081.shtml" target="_blank"> 二道区义务教育均衡发展工程有序实施之东盛大学区 </a></p>
+<b>2015-09-16</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="朝阳区教育局——大学区”活动放异彩 高位均衡卓有成效" href="../xqhd/97084.shtml" target="_blank"> 朝阳区教育局——大学区”活动放异彩 高位均衡卓有成效 </a></p>
+<b>2015-04-08</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="北安小学成功召开“北安大学区片英语教师教学素养展示活动” " href="../xqhd/96562.shtml" target="_blank">北安小学成功召开“北安大学区片英语教师教学素养展示活动... </a></p>
+<b>2014-12-08</b>
+</li>
+ <li>
+<!--<em>B0102012046</em>--> <p><a title="朝阳区教育局基础教育科——“大学区”活动添新彩 高位均衡彰显成效 " href="../xqhd/93928.shtml" target="_blank">朝阳区教育局基础教育科——“大学区”活动添新彩 高位均... </a></p>
+<b>2014-12-08</b>
+</li>
+</ul>
+<!--fenye--><div class="fenye">共<b>2</b>页 当前第 1 页  记录共<b>27</b>条  <a href="index_2.shtml">[下一页]</a> <a href="index_2.shtml">[尾页]</a> </div>
+<!--end fenye-->
+</div>
+<!--end center---><!--right--><div class="sublistpage_r fr">
+<!--01--><div class="w_border mb5 pb5">﻿<h1 class="h1_green" style="margin-top:-15px;">服务直通车</h1>
+<ul class="ul_servicecar">
+<li><a href="http://122.139.2.244:8888/kaosheng/login.aspx" target="_blank">中考网上报名系统</a></li>
+<!--<li><a href="http://222.168.13.23:8888/zkcj_2015.asp" target="_blank">中考成绩查询</a></li>
+--><li><a href="http://www.cczsb.com/zklq_2016.asp" target="_blank">中考录取查询</a></li>
+<li><a href="http://www.cczsb.com/tjscj_2016.asp" target="_blank">推荐生公示名单</a></li>
+<!--<li><a href="http://221.8.13.20/" target="_blank">高考网上报名</a></li>
+--><li><a href="http://www.jledu.gov.cn/" target="_blank">高考成绩查询</a></li>
+<li><a href="http://www.jledu.gov.cn/" target="_blank">高考录取查询</a></li>
+<li><a href="http://yz.chsi.com.cn/" target="_blank">研、硕网上报名</a></li>
+<li><a href="http://www.jszg.edu.cn/portal/home/index" target="_blank">教师资格查询</a></li>
+</ul>
+</div>
+<!--end 01--><!--02--><!--<div class="w_border bg_blue subhei127 mb7"><div class="no-right"><a href="http://www.ccedin.net/zllbblbk/index.shtml" target="_blank"><img src="images/lbblbk.jpg" /></a><a href="http://sdts.ccedin.net/newpage.aspx" target="_blank"><img src="images/jbpt.jpg" style="padding-top:3px;" /></a></div> </div>
+--><!--end 02--><!--03--><div class="w_border pb5 hei370"> <h1 class="h1_title mb_5">法规文件<span><a href="../fgwj/index.shtml" target="_blank">更多&gt;&gt;</a></span>
+</h1>
+ <ul class="list_one">
+<li><a title="学校招收和培养国际学生管理办法" href="../gjxgflfggz/106686.shtml" target="_blank"> 学校招收和培养国际学生管理办法</a></li>
+ <li><a title="教育部办公厅关于印发《职业教育专业教学资源库建设资金管理办法》的通知教财厅函[2016]28号" href="../gjxgflfggz/102124.shtml" target="_blank">教育部办公厅关于印发《职业教育专业教...</a></li>
+ <li><a title="教育部等五部门关于印发《职业学校学生实习管理规定》的通知教职成[2016]3号" href="../gjxgflfggz/100691.shtml" target="_blank">教育部等五部门关于印发《职业学校学生...</a></li>
+ <li><a title="国务院教育督导委员会办公室关于印发《全面改善贫困地区义务教育薄弱学校基本办学条件工作专项督导办法》的通知国教督办[2015]6号" href="../gjxgflfggz/99758.shtml" target="_blank">国务院教育督导委员会办公室关于印发《...</a></li>
+ <li><a title="教育部办公厅关于推进教育领域通过法定途径分类处理信访投诉请求工作的通知教办厅函[2015]51号" href="../gjxgflfggz/99347.shtml" target="_blank">教育部办公厅关于推进教育领域通过法定...</a></li>
+</ul>
+</div>
+<!--end 03-->
+</div>
+<!--end right--><div class="clear"></div>
+</div>
+<!--end list--><!--friendlink--><div class="flink w_border mb7">
+<!--start--><div class="slideTxtBox02">
+<div class="hd">
+<ul>
+<!-- <li>教育相关网站</li>
+--><!-- <li>机关处室</li>--><li>教辅单位</li>
+ <li>直属学校</li>
+<!-- <li style="background:none transparent scroll repeat 0% 0%;" name="各区县教育局机关">各区县教育局</li>
+ -->
+</ul>
+</div>
+<div class="bd pr">
+<div class="hide">
+<!--教辅单位--><ul>
+<li><a title="长春市招生委员会办公室 " href="../jfdw/78892.shtml" target="_blank"> 长春市招生委员会办公室 </a></li>
+ <li><a title="长春市普通高中学业考试工作办公室" href="../jfdw/78907.shtml" target="_blank"> 长春市普通高中学业考试工作办公室</a></li>
+ <li><a title="长春市教育技术装备中心" href="../jfdw/78894.shtml" target="_blank"> 长春市教育技术装备中心</a></li>
+ <li><a title="长春市中小学德育工作指导中心" href="../jfdw/78897.shtml" target="_blank"> 长春市中小学德育工作指导中心</a></li>
+ <li><a title="长春市少年宫" href="../jfdw/91585.shtml" target="_blank"> 长春市少年宫</a></li>
+ <li><a title="长春市职业与成人教育研究指导中心" href="../jfdw/78898.shtml" target="_blank"> 长春市职业与成人教育研究指导中心</a></li>
+ <li><a title="长春市教育科学研究所" href="../jfdw/78905.shtml" target="_blank"> 长春市教育科学研究所</a></li>
+ <li><a title="长春市电化教育馆" href="../jfdw/78899.shtml" target="_blank"> 长春市电化教育馆</a></li>
+ <li><a title="长春市教材管理办公室" href="../jfdw/91415.shtml" target="_blank"> 长春市教材管理办公室</a></li>
+ <li><a title="长春市教育国际交流中心" href="../jfdw/91416.shtml" target="_blank"> 长春市教育国际交流中心</a></li>
+
+</ul>
+<!--end 教辅单位-->
+</div>
+<div class="hide">
+<!--直属学校--><ul class="w15">
+<li><a title="长春教育学院" href="../zsxx/91615.shtml" target="_blank"> 长春教育学院</a></li>
+ <li><a title="长春广播电视大学" href="../zsxx/91614.shtml" target="_blank"> 长春广播电视大学</a></li>
+ <li><a title="长春职业技术学院" href="../zsxx/91572.shtml" target="_blank"> 长春职业技术学院</a></li>
+ <li><a title="长春汽车工业高等专科学校" href="../zsxx/91612.shtml" target="_blank"> 长春汽车工业高等专科学校</a></li>
+ <li><a title="长春市实验中学" href="../zsxx/91611.shtml" target="_blank"> 长春市实验中学</a></li>
+ <li><a title="长春市第二实验中学" href="../zsxx/91610.shtml" target="_blank"> 长春市第二实验中学</a></li>
+ <li><a title="长春市第一中学" href="../zsxx/91609.shtml" target="_blank"> 长春市第一中学</a></li>
+ <li><a title="长春市第二中学" href="../zsxx/91608.shtml" target="_blank"> 长春市第二中学</a></li>
+ <li><a title="长春市第五中学" href="../zsxx/91607.shtml" target="_blank"> 长春市第五中学</a></li>
+ <li><a title="长春市第六中学" href="../zsxx/91606.shtml" target="_blank"> 长春市第六中学</a></li>
+ <li><a title="长春市第七中学" href="../zsxx/99205.shtml" target="_blank"> 长春市第七中学</a></li>
+ <li><a title="长春市第八中学" href="../zsxx/91604.shtml" target="_blank"> 长春市第八中学</a></li>
+ <li><a title="长春市第九中学" href="../zsxx/91405.shtml" target="_blank"> 长春市第九中学</a></li>
+ <li><a title="长春市第十中学" href="../zsxx/91602.shtml" target="_blank"> 长春市第十中学</a></li>
+ <li><a title="长春市十一高中" href="../zsxx/99206.shtml" target="_blank"> 长春市十一高中</a></li>
+ <li><a title="长春市第十六中学" href="../zsxx/91600.shtml" target="_blank"> 长春市第十六中学</a></li>
+ <li><a title="长春市第十七中学" href="../zsxx/91599.shtml" target="_blank"> 长春市第十七中学</a></li>
+ <li><a title="长春市第十九中学" href="../zsxx/91598.shtml" target="_blank"> 长春市第十九中学</a></li>
+ <li><a title="长春市第二十中学（长春二中兴隆校区）" href="../zsxx/91597.shtml" target="_blank">长春市第二十中学（长春二中兴隆校区）...</a></li>
+ <li><a title="长春市第二十九中学" href="../zsxx/91596.shtml" target="_blank"> 长春市第二十九中学</a></li>
+ <li><a title="长春市一三六中学" href="../zsxx/99229.shtml" target="_blank"> 长春市一三六中学</a></li>
+ <li><a title="长春市一三七中学" href="../zsxx/91594.shtml" target="_blank"> 长春市一三七中学</a></li>
+ <li><a title="长春市朝鲜族中学" href="../zsxx/91593.shtml" target="_blank"> 长春市朝鲜族中学</a></li>
+ <li><a title="长春市养正高级中学" href="../zsxx/91592.shtml" target="_blank"> 长春市养正高级中学</a></li>
+ <li><a title="长春市艺术实验中学" href="../zsxx/91591.shtml" target="_blank"> 长春市艺术实验中学</a></li>
+ <li><a title="长春市综合实验中学" href="../zsxx/91590.shtml" target="_blank"> 长春市综合实验中学</a></li>
+ <li><a title="长春希望高中" href="../zsxx/91589.shtml" target="_blank"> 长春希望高中</a></li>
+ <li><a title="长春市东光学校" href="../zsxx/91588.shtml" target="_blank"> 长春市东光学校</a></li>
+ <li><a title="长春市第一实验小学" href="../zsxx/91587.shtml" target="_blank"> 长春市第一实验小学</a></li>
+ <li><a title="长春市第二实验小学" href="../zsxx/91586.shtml" target="_blank"> 长春市第二实验小学</a></li>
+ <li><a title="长春市实验幼儿园" href="../zsxx/91584.shtml" target="_blank"> 长春市实验幼儿园</a></li>
+ <li><a title="长春市特殊教育学校" href="../zsxx/91582.shtml" target="_blank"> 长春市特殊教育学校</a></li>
+ <li><a title="长春市晨光学校" href="../zsxx/91581.shtml" target="_blank"> 长春市晨光学校</a></li>
+ <li><a title="长春市第一中等专业学校" href="../zsxx/91578.shtml" target="_blank"> 长春市第一中等专业学校</a></li>
+ <li><a title="长春市第二中等专业学校" href="../zsxx/91577.shtml" target="_blank"> 长春市第二中等专业学校</a></li>
+ <li><a title="长春市城建工程学校" href="../zsxx/91576.shtml" target="_blank"> 长春市城建工程学校</a></li>
+ <li><a title="长春幼儿师范学校" href="../zsxx/91575.shtml" target="_blank"> 长春幼儿师范学校</a></li>
+ <li><a title="长春市机械工业学校" href="../zsxx/91574.shtml" target="_blank"> 长春市机械工业学校</a></li>
+ <li><a title="长春市农业学校" href="../zsxx/91573.shtml" target="_blank"> 长春市农业学校</a></li>
+ <li><a title="长春艺术设计学校" href="../zsxx/91571.shtml" target="_blank"> 长春艺术设计学校</a></li>
+ <li><a title="长春职业技术学校" href="../zsxx/91613.shtml" target="_blank"> 长春职业技术学校</a></li>
+
+
+</ul>
+<!--end 直属学校-->
+</div>
+<div class="hide">
+<ul>
+<li><a title="朝阳区教育局" href="http://www.cydj.net.cn/" target="_blank"> 朝阳区教育局</a></li>
+<li><a title="南关区教育局" href="http://www.ccngjy.gov.cn" target="_blank"> 南关区教育局</a></li>
+<li><a title="宽城区教育局" href="http://cckcjy.com/" target="_blank"> 宽城区教育局</a></li>
+<li><a title="二道区教育局" href="http://www.ccerdao.gov.cn/moban/7/index.php?dw=7" target="_blank"> 二道区教育局</a></li>
+<li><a title="绿园区教育局" href="http://www.lyjyxxw.com/" target="_blank"> 绿园区教育局</a></li>
+<li><a title="双阳区教育局" href="../jjg/91424.shtml" target="_blank"> 双阳区教育局</a></li>
+<li><a title="榆树市教育局" href="http://www.ysjyw.net/" target="_blank"> 榆树市教育局</a></li>
+<li><a title="农安县教育局" href="http://www.naedu.gov.cn/" target="_blank"> 农安县教育局</a></li>
+<li><a title="德惠市教育局" href="http://www.dhjy.net/" target="_blank"> 德惠市教育局</a></li>
+<li><a title="九台区教育局" href="../jjg/91308.shtml" target="_blank"> 九台区教育局</a></li>
+<li><a title="经济技术开发区文教局" href="http://www.cetdz.gov.cn" target="_blank"> 经济技术开发区文教局</a></li>
+<li><a title=" 长春新区文化教育局" href="../index.html" target="_blank">  长春新区文化教育局</a></li>
+<li><a title="汽车经济技术开发区教育局" href="http://www.fawbec.com.cn/fawedu/index.jsp" target="_blank"> 汽车经济技术开发区教育局</a></li>
+<li><a title="莲花山生态旅游度假区社会事业发展局" href="../index.html" target="_blank"> 莲花山生态旅游度假区社会事业发展局</a></li>
+ </ul>
+</div>
+</div>
+<!--end -->
+</div>
+</div> <!--end friendlink--><!--col08--><div class="col09">
+<a onclick="setSession()" id="isNotMobile">返回手机版</a><!-- <a>网站地图</a><span>|</span><a>关于我们</a><span>|</span><a>法律声明</a>-->
+</div>
+<!--end col08--><!--footer--><div class="footer">
+<p>主办：长春市教育局 保留所有权利，未经允许，不得复制、镜像</p>
+<p>地址：长春市平泉路667号 邮编：130022 </p>
+<p>吉ICP备15001946号-1 域名：www.ccedin.net 吉ICP备15001946号-2 中文域名：WWW.长春市教育局.政务 吉ICP备15001946号-3 域名：www.ccedin.gov.cn </p>
+<!--<div class="weblogin"><img src="images/company.jpg" /></div>
+-->
+<script id="_jiucuo_" src="http://pucha.kaipuyun.cn/exposure/jiucuo.js" sitecode="2201000053"></script><script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/09/151/0000/60449173/CA091510000604491730005.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<style>
+#imgConac{ position:absolute; right:0; top:2px;}
+#_span_jiucuo img{ position:absolute; left:-6px; top:5px;}
+</style>
+<!--end footer--><!--<script type="text/javascript" src="js/jquery.js"></script>
+--><script type="text/javascript" src="js/jquery.slide.js"></script><script type="text/javascript">jQuery(".slideBox").slide({mainCell:".bd ul",effect:"leftLoop",autoPlay:true});</script><script type="text/javascript">jQuery(".slideTxtBox").slide();</script><script type="text/javascript">jQuery(".slideTxtBox_nav").slide({delayTime:0});</script><script type="text/javascript">jQuery(".slideTxtBox02").slide();</script><script type="text/javascript">jQuery(".slideTxtBox_renren").slide();</script><script type="text/javascript">jQuery(".txtMarquee-top").slide({mainCell:".bd ul",autoPlay:true,effect:"topMarquee",vis:6,interTime:120});</script><script type="text/javascript">
+
+/* 内层图片无缝滚动 */
+
+jQuery(".slideGroup .slideBox0").slide({ mainCell:"ul",vis:6,effect:"leftMarquee",interTime:50,autoPlay:true,trigger:"click"});
+
+/* 外层tab切换 */
+
+//jQuery(".slideGroup").slide({titCell:".parHd li",mainCell:".parBd"});
+
+</script><!--new add by mxl on 20150301--><script type="text/javascript">jQuery(".picMarqueeLeft").slide({mainCell:".bd ul",autoPlay:true,effect:"leftMarquee",vis:4,interTime:120});</script><!--end new add by mxl on 20150301--><script type="text/javascript" src="js/ownedit.js">
+
+swfobject.registerObject("FlashID2");
+
+</script><!--手机版按钮判断2015年8月14日（lyh）--><script type="text/javascript">
+getIsNotMobile();
+function getIsNotMobile(){
+	if("true"==getCookie("isNotMobile")){
+		document.getElementById("isNotMobile").style.display="";
+	}else{
+		document.getElementById("isNotMobile").style.display="none";
+	}
+}
+function setSession(){
+	document.cookie = "isNotMobile=" ;
+	window.location.reload();
+	 
+}
+function getCookie(name) {    
+  var nameEQ = name + "=";    
+  var ca = document.cookie.split(';');      
+  for(var i=0;i < ca.length;i++) {    
+  var c = ca[i];                         
+  while (c.charAt(0)==' ') {             
+  c = c.substring(1,c.length);         
+  }    
+  if (c.indexOf(nameEQ) == 0) {
+  return c.substring(nameEQ.length,c.length);        
+  }    
+  }    
+  return false;    
+ }
+</script><script type="text/javascript">
+jQuery(".txtMarquee-one").slide({titCell:".hd ul",mainCell:".bd ul",autoPage:true,effect:"leftMarquee",autoPlay:true,vis:1});
+jQuery(".notice").slide({mainCell:".notice_bd",autoPlay:true,effect:"leftMarquee",vis:2,interTime:50});
+</script>
+</div>
+<!--end main-->﻿<div class="sidenav">
+<ul class=" ul_sidenav">
+<li>
+<a href="../frontWeb.do?action=directorIndex" target="_blank"><img src="images/sidenav_img01.png">局长信箱</a> </li>
+<li>
+<a href="http://sdts.ccedin.net/newpage.aspx" target="_blank"><img src="images/sidenav_img02.png">监督投诉</a> </li>
+<li><a href="http://cc.edusoa.com/dsideal_yy/html/ypt/index_cc.html" target="_blank"><img src="images/sidenav_img03.png">资源平台</a></li>
+<!--老版<li><a href="http://222.169.228.114:88/EduSystem/Login.aspx" target="_blank"><img src="images/sidenav_img04.png" />人事管理</a></li>-->
+<li><a href="http://120.27.82.248:6601" target="_blank"><img src="images/sidenav_img04.png">人事管理</a></li>
+<li><a href="http://120.27.82.248:6602" target="_blank"><img src="images/sidenav_img08.png">督导评估</a></li>
+<li><a href="http://weibo.com/u/3920346791?pids=Pl_Core_OwnerFeed__5" target="_blank"><img src="images/sidenav_img05.png">教育微博</a></li>
+<!--<li><a><img src="images/sidenav_img06.png" />民意调查</a></li>-->
+<li class="gotop" style="display:none;"><a href="javascript:;"><img src="images/sidenav_img07.png">回到顶部</a></li>
+</ul>
+<a><img src="images/ccedu_weibo.jpg"></a>
+</div> <!-- ====================================================================end new add======================================================================== -->
+	</body>
+</html>
